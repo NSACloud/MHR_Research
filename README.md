@@ -1,7 +1,7 @@
 # MHR Research
 Texture & other information for Monster Hunter Rise modding.
 
-Go the [wiki](https://github.com/NSACloud/MHR_Research/wiki) tab.
+Go to the [wiki](https://github.com/NSACloud/MHR_Research/wiki) tab.
 
 ## Credits
 
